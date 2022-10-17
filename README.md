@@ -119,3 +119,4 @@ On mobile devices, the cards should stack horizontally, and sit near the bottom 
 **Workshops are submitted through the course platform.** Commit your changes, push them to your fork, and submit the link by clicking the "Complete lesson" button on the workshop page.
 
 If you're not comfortable with Git, you can upload a `.zip` file using Dropbox or Google Drive, and paste a link to the public file instead.
+# Character-Creator
